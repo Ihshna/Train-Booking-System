@@ -40,7 +40,7 @@
                     <li><a href="dashboard.php?page=reports/system_user_report">System user report</a></li>
                     <li><a href="dashboard.php?page=reports/customer_report">Customer report</a></li>
                     <li><a href="dashboard.php?page=reports/train_report">Train report</a></li>
-                    <li><a href="../reports/route_report">Route report</a></li>
+                    <li><a href="dashboard.php?page=reports/route_report">Route report</a></li>
                     <li><a href="dashboard.php?page=reports/booking_report">Bookings report</a></li>
                 </ul>
             </li>
